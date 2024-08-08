@@ -39,9 +39,9 @@ set .Wait,10;		// Progress bar delay in seconds
 // Random options that will be applied
 
 setarray .weaponOption1[0],
-	13,		// VAR_ATKPERCENT (atk 1-50)
+	13,	// VAR_ATKPERCENT (atk 1-50)
 	249,	// VAR_PATKAMOUNT (matk 1-50)
-	19,		// VAR_ATTMPOWER (atk%)
+	19,	// VAR_ATTMPOWER (atk%)
 	250;	// VAR_SMATKAMOUNT (matk%)
 
 setarray .weaponOption2[0],
